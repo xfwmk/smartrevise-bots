@@ -13,3 +13,5 @@ Step two - Paste your groq API key into the javascript near the top (it will be 
 Step three - Save the script in tampermonkey (there is another setting that must be enabled #NAME SETTING LATER.
 
 Step three - You can now go to your homework page and there should be a button to start AI if all steps were done correctly.
+
+THE FLASHCARD BOT DOESN'T USE AI AS IT DOESN'T ACTUALLY HAVE TO GIVE AN ANSWER!!!
