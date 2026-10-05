@@ -15,3 +15,5 @@ Step three - Save the script in tampermonkey (there is another setting that must
 Step three - You can now go to your homework page and there should be a button to start AI if all steps were done correctly.
 
 THE FLASHCARD BOT DOESN'T USE AI AS IT DOESN'T ACTUALLY HAVE TO GIVE AN ANSWER!!!
+
+100% for educational purposes and not for cheating your homework
