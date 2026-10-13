@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         smartrevise-bots
 // @namespace    https://github.com/xfwmk/smartrevise-bots/
-// @version      1
+// @version      1.2
 // @description  Smartrevise autosolver
 // @match        https://smartrevise.online/student/reviseterminology/*
 // @connect      api.groq.com
