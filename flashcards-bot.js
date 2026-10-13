@@ -18,21 +18,6 @@
     const sleep = ms =>
         new Promise(resolve => setTimeout(resolve, ms));
 
-
-    // Find the actual Flip button
-    function getFlipButton() {
-
-        const buttons = [
-            ...document.querySelectorAll('button')
-        ];
-
-        return buttons.find(button =>
-            button.offsetParent !== null &&
-            button.innerText.trim().toLowerCase() === 'flip'
-        );
-    }
-
-
     // Find the three assessment buttons.
     // The happy/green face is the RIGHTMOST one.
     function getHappyButton() {
