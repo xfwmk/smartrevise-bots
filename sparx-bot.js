@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         sparx-bot
-// @namespace    https://github.com/xfwmk/sparx-bot/
-// @version      1
+// @namespace    https://github.com/xfwmk/homework-bots/
+// @version      1.2.0
 // @description  Sparx Maths bot
 // @match        https://maths.sparx-learning.com/student/*
 // @connect      api.groq.com
