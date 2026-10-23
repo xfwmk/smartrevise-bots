@@ -10,7 +10,7 @@ How to use: Step one - Copy the javascript code (main.js), and paste it into the
 
 Step two - Paste your groq API key into the javascript near the top (it will be clear where) the format should be 'GROQ_API_KEY' (replace GROQ_API_KEY with your key).
 
-Step three - Save the script in tampermonkey (there is another setting that must be enabled #NAME SETTING LATER.
+Step three - Save the script in tampermonkey (ALSO MAKE SURE TO GO INTO TAMPERMONKEY'S SETTINGS IN CHROME AND ENABLE ALLOW USER SCRIPTS.)
 
 Step three - You can now go to your homework page and there should be a button to start AI if all steps were done correctly.
 
